@@ -1,4 +1,5 @@
 import numpy as np  
+import matplotlib.pyplot as plt 
 
 array1 = np.random.randint(0,101,20)
 array2 = np.random.randint(0,101,20)
